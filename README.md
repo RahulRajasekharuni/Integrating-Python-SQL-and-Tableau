@@ -41,8 +41,8 @@ This Jupyter notebook file showcases how I did the following
 21. Created a new data frame checkpoint (df_reason_mod2)
 21. dropped the date column from df_reason_mod
 22. renamed/reorganised df_reason_mod columns
-23. renamed 
-24. used the .map pandas method to map the education column in df_reason_mod. Anyone below uni was mapped to 0 and anyone with higher education was mapped to 1
+23. Created a new checkpoint called df_reason_mod_date
+24. used the .map pandas method to map the education column in df_reason_mod_date. Anyone below uni was mapped to 0 and anyone with higher education was mapped to 1
 25. created a final checkpoint (df_preprocessed)
 26. used the .to_csv pandas method to save df_preprocessed as a CSV
 
