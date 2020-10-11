@@ -9,7 +9,7 @@ Below are the column names for the data I preprocessed;
 ID, Reason for Absence, Date, Transportation Expense, Distance to Work, Age, Daily Work Load Average, Body Mass Index,	
 Education, Children, Pets, Absenteeism Time in Hours
 
-Please see my visulisations with below links
+Please see my visualisations with below links
 1. https://public.tableau.com/profile/rahul7180#!/vizhome/PSTDatavisulisation/ReasonsvsProbability
 2. https://public.tableau.com/profile/rahul7180#!/vizhome/PSTDatavisulisation/AgevsProbability
 3. https://public.tableau.com/profile/rahul7180#!/vizhome/PSTDatavisulisation/TransportationExpenseandChildren
