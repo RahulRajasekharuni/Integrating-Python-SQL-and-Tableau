@@ -1,10 +1,10 @@
 # Integrating-Python-SQL-and-Tableau
 Integrating Python, SQL, and Tableau
 
-I used python to preprocess data related to employees at a company and applied machine learning (logistic regression) to figure out which employees will be excessively absent.
-I used PyMySQL package to upload the final results to a MySQL table and also visualised the data via Tableau. 
+I used python to preprocess data related to employees at a company and applied machine learning (logistic regression) to predict which employees will be excessively absent.
+I used the PyMySQL package to upload the final results to a MySQL table, and also visualised the predictions via Tableau. 
 
-Below is the column names for the data I preprocessed.
+Below are the column names for the data I preprocessed;
 
 ID, Reason for Absence, Date, Transportation Expense, Distance to Work, Age, Daily Work Load Average, Body Mass Index,	
 Education, Children, Pets, Absenteeism Time in Hours
